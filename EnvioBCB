@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//SP">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="">
+    <title>BC&B</title>
+    <style type="text/css">
+      <!--
+        body {
+          color:#000000;
+          background-color:#FFFFFF;
+          background-image:url('Background Image');
+          background-repeat:no-repeat;
+    	    margin-top:auto;
+    	    margin:5px auto auto;
+    	    margin-left:auto;
+    	    margin-right:auto;
+    	    text-align:center;
+          font-family: "Arial";
+          font-size: 13px;
+        }
+        a  { font-family: "arial"; color:#0000FF; }
+        a:link, a:visited {
+          background-color: #f44336;
+          color: white;
+          padding: 14px 25px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+        }
+        a:hover { color:black; }
+        a:active { color:#FF0000; }
+      -->
+    </style>
+  </head>
+  <body>
+    <img src="cartadic2017.jpg" width="750" height="900" alt="BC&B" title="BC&B" />
+    <br>
+    <br>
+  </body>
+</html>
