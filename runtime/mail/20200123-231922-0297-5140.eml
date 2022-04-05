@@ -1,0 +1,14 @@
+Message-ID: <ce16a11f674dbd968ff4d604fae1c576@localhost>
+Date: Thu, 23 Jan 2020 23:19:22 +0100
+Subject: Confirmar registro
+From: =?utf-8?Q?Aplicaci=C3=B3n?= Yii <emarquez@bcb.com.mx>
+To: jdiaz@bcb.com.mx
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<h1>Haga click en el siguiente enlace para finalizar tu registro</h1><a hre=
+f=3D'http://yii.local/index.php?r=3Dsite/confirm&id=3D3&authKey=3D5c77cba4f=
+ccdccc58b0abbc081692b9027f858bed78374ee9f208fe9a1be1ff0daea52d38c874a430cc0=
+445e1e5e2efc37a90b03dfdebf3473bf24f204665e5e2c9ea0c02252be6cea6c8565c50993f=
+c8595d94be2ba6e2f94b2dd0c977156c561bd7433'>Confirmar</a>
